@@ -34,6 +34,7 @@ st.markdown(
 
 # Title and description.
 st.markdown('<p class="title">Neural Calculator</p>', unsafe_allow_html=True)
+st.markdown('<p class="description">This project mimics the human brain\'s computation process using Deep Learning and Artificial Neural Network.</p>', unsafe_allow_html=True)
 st.markdown("### Enter two numbers:")
 
 # Input fields for numbers.
